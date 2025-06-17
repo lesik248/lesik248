@@ -23,3 +23,15 @@ I'm Alesya Yarmosh, a Software Engineer from Minsk, Belarus.
 Currently i study computer science at BSU and work in a blockchain startup.
 
 You can check my [CV](https://github.com/lesik248/lesik248/blob/main/CV.pdf)
+
+## 🔭 Projects
+
+- 💻 [Operating systems](https://github.com/lesik248/OS)
+- 🎨 Computer graphics programming
+  - [Color Converter](https://github.com/lesik248/Color-Converter)
+  - [Image metadata reader](https://github.com/lesik248/Image-metadata-reader)
+  - [Image processing app](https://github.com/lesik248/Image-Processing-Application)
+  - [Rasterization app](https://github.com/lesik248/Rasterization-App)
+  - [Line and polygon clipping app](https://github.com/lesik248/Clipping-Graphics-App)
+  - [3D Transformations App](https://github.com/lesik248/3D-Tranformations-App)
+  - [Firework simmulator](https://github.com/lesik248/Firework-Simulator)
