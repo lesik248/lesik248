@@ -22,7 +22,7 @@ I'm Alesya Yarmosh, a Software Engineer from Minsk, Belarus.
 
 Currently i study computer science at BSU and work in a blockchain startup.
 
-You can check my [CV](https://github.com/lesik248/lesik248/blob/main/CV.pdf)
+You can check out my [CV](https://github.com/lesik248/lesik248/blob/main/CV.pdf).
 
 ## 🔭 Projects
 
