@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img alt="GIF" src="https://media1.tenor.com/m/SyQD6OI4AKYAAAAd/y2k.gif" />
+  <img alt="GIF" src="./1.gif">
 </div>
 
+## 😄 About me
+I'm Alesya Yarmosh, a Software Engineer from Minsk, Belarus. 
+
+Currently i study computer science at BSU and work in a blockchain startup.
+
+You can check my [CV](https://github.com/lesik248/lesik248/blob/main/CV.pdf)
